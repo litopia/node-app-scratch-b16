@@ -1,0 +1,14 @@
+{
+  "name": "button-bower",
+  "homepage": "https://github.com/litopia/button-bower",
+  "_release": "05a44565a0",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "05a44565a032ef7448e6cd206269745960efd16b"
+  },
+  "_source": "https://github.com/litopia/button-bower.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/litopia/button-bower.git",
+  "_direct": true
+}

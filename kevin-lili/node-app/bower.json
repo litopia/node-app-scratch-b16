@@ -1,0 +1,6 @@
+{
+  "name": "node app",
+  "dependencies": {
+    "button-bower": "https://github.com/litopia/button-bower.git"
+  }
+}

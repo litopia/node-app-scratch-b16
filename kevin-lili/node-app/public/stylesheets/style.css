@@ -1,0 +1,14 @@
+.button {
+  padding: 1em 0.328em;
+  color: #FFFFFF;
+  border: none;
+  border-radius: 0.618em;
+  margin: 0 auto;
+  width: 11.09em; }
+
+.button-primary {
+  background: #ff0000; }
+.button-secondary {
+  background: #999999; }
+.button-tertiary {
+  background: #313030; }
